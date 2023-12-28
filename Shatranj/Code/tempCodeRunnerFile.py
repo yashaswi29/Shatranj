@@ -1,0 +1,4 @@
+
+MAX_FPS = 15
+IMAGES = {}
+
